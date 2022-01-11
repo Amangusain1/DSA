@@ -1,0 +1,1 @@
+# Pattern related easy questions
